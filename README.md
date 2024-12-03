@@ -1,5 +1,14 @@
 
 # Лабораторная работа 4.
+![image](https://github.com/user-attachments/assets/3e389639-e9d6-477f-bc30-cd49cb999d06)
+![image](https://github.com/user-attachments/assets/ea1f5c70-22d2-4201-92a3-84fe34298408)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/5bc061fe-47b5-4a3d-b693-237a7102d5bf)
+![image](https://github.com/user-attachments/assets/34111e68-14a1-4f5c-8e53-f08025bb6a7d)
 
 Для решения понадобится установить Docker. Можно это делать как в виртуальной машине с установленным Linux, так и через WSL (главное на линукс подобной системе).
 ## Пример (не надо его включать в отчет!)
