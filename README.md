@@ -1,5 +1,5 @@
 
-# Лабораторная работа 4.
+# Лабораторная работа 4
 1. Написали Dockerfile
 ![image](https://github.com/user-attachments/assets/3e389639-e9d6-477f-bc30-cd49cb999d06)
 
